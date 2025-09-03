@@ -1,0 +1,14 @@
+{
+  "name": "FurryFrame",
+  "description": "FurryFrame is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://09874bd9-9038-474f-9f26-8854012b6217.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "FurryFrame",
+      "description": "FurryFrame is a Base Mini App built with Zara.",
+      "url": "https://09874bd9-9038-474f-9f26-8854012b6217.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
